@@ -3,7 +3,7 @@
 
 ## 스터디원
 
-- 진도
+- 진도 [mimseong](https://github.com/mimseong)
 
 ## 스터디 일정
 
