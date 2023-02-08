@@ -5,7 +5,7 @@
 
 - 진도 [mimseong](https://github.com/mimseong)
 - 미도리 [daybydoris](https://github.com/daybydoris)
-- 클레어 [changerlemond](https://github.com/changerlemond)
+- actee [baeyuzz](https://github.com/baeyuzz)
 
 ## 스터디 일정
 
