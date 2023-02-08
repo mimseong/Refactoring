@@ -4,6 +4,7 @@
 ## 스터디원
 
 - 진도 [mimseong](https://github.com/mimseong)
+- 미도리 [daybydoris] (https://github.com/daybydoris)
 
 ## 스터디 일정
 
