@@ -7,6 +7,7 @@
 - 미도리 [daybydoris](https://github.com/daybydoris)
 - actee [baeyuzz](https://github.com/baeyuzz)
 - 클레어 [changerlemond](https://github.com/changerlemond)
+- 김쏠 [jihye0418](https://github.com/jihye0418)
 
 ## 스터디 일정
 
