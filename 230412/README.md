@@ -8,4 +8,3 @@
 - actee (baeyuzz)
 - 미도리 (daybydoris)
 - 클레어 (changerlemond)
-- 김쏠 (jihye0418)
