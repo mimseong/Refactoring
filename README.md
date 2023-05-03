@@ -1,6 +1,8 @@
 # Refactoring
 리팩터링 스터디 레포
 
+완주했다!🏅
+
 ## 스터디원
 
 - 진도 [mimseong](https://github.com/mimseong)
